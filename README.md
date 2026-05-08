@@ -32,3 +32,11 @@ To identify individual farmland plots in a satellite image and sort them by area
      - Canny edges
      - Morphological operations
      - Final detected and ranked land plots
+    
+<div align="center"> <img src="output.png" alt="Output" width="600"/> <p><b>Figure 1:</b> Labeled farm lands from largest(1) to smallest</p> </div>
+
+---
+**Course:** Multimedia    
+**University:** Amirkabir University of Technology    
+**Semester:** Spring 2024    
+**Author:** Hadi Salavati
